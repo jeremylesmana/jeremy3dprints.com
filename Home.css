@@ -1,33 +1,24 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 288px;
+  min-height: 359px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 318px;
+  height: 115px;
+  margin: 27px auto 0;
 }
 
 .u-section-1 .u-text-1 {
-  text-transform: uppercase;
-  letter-spacing: 7px;
-  line-height: 1;
-  font-weight: 400;
-  width: 730px;
-  margin: 28px auto 0;
-}
-
-.u-section-1 .u-text-2 {
   font-size: 3.75rem;
   font-weight: 700;
   width: 730px;
-  margin: 10px auto 0;
+  margin: 9px auto 0;
 }
 
-.u-section-1 .u-text-3 {
+.u-section-1 .u-text-2 {
   font-size: 1.25rem;
-  margin: 28px 205px 40px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-1 .u-text-3 {
-    margin-left: 105px;
-    margin-right: 105px;
-  }
+  width: 730px;
+  margin: 9px auto 37px;
 }
 
 @media (max-width: 991px) {
@@ -37,11 +28,6 @@
 
   .u-section-1 .u-text-2 {
     width: 720px;
-  }
-
-  .u-section-1 .u-text-3 {
-    margin-left: 0;
-    margin-right: 0;
   }
 }
 
@@ -57,11 +43,11 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
     width: 340px;
   }
 
   .u-section-1 .u-text-2 {
-    font-size: 2.25rem;
     width: 340px;
   }
 }.u-section-2 {
@@ -122,8 +108,6 @@
 }
 
 .u-section-3 .u-text-1 {
-  font-weight: 300;
-  font-size: 1.875rem;
   margin: 32px 20px 0;
 }
 
@@ -135,6 +119,7 @@
 
 @media (max-width: 1199px) {
   .u-section-3 .u-text-1 {
+    font-weight: normal;
     margin-left: auto;
     margin-right: auto;
   }
@@ -142,12 +127,6 @@
   .u-section-3 .u-text-2 {
     margin-left: 0;
     margin-right: 0;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-3 .u-text-1 {
-    font-size: 3.75rem;
   }
 }.u-section-4 .u-sheet-1 {
   min-height: 771px;
@@ -352,7 +331,7 @@
 }
 
 .u-section-5 .u-sheet-1 {
-  min-height: 613px;
+  min-height: 580px;
 }
 
 .u-section-5 .u-text-1 {
@@ -458,12 +437,12 @@
     width: 340px;
   }
 }.u-section-6 .u-sheet-1 {
-  min-height: 480px;
+  min-height: 420px;
 }
 
 .u-section-6 .u-layout-wrap-1 {
   width: 1140px;
-  margin: 0 0 60px;
+  margin: 0;
 }
 
 .u-section-6 .u-layout-cell-1 {
@@ -491,7 +470,7 @@
 }
 
 .u-section-6 .u-text-1 {
-  margin: 0;
+  margin: 3px 0 0;
 }
 
 .u-section-6 .u-text-2 {
